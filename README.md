@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Ken Zamariyan Banner"/>
+<img src="banner.png" width="100%" alt="Ken Zamariyan Banner"/>
 
 <br>
 
