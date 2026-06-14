@@ -13,15 +13,15 @@ Building scalable web and mobile products with modern JavaScript technologies.
 <br>
 
 <p align="center">
-  <a href="https://yourportfolio.com">
+  <a href="kenzamariyan-portfolio.vercel.app">
     <img src="https://skillicons.dev/icons?i=vercel" height="32" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://www.linkedin.com/in/ken-zamariyan">
     <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:your@email.com">
+  <a href="kenzamariyan32@email.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="32" />
   </a>
 </p>
