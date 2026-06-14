@@ -15,20 +15,26 @@ Building scalable web and mobile products with modern JavaScript technologies.
 <div align="center">
 
 <a href="https://yourportfolio.com">
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" height="26"/>
 </a>
-
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/yourlinkedin">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="26"/>
 </a>
-
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:your@email.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <img src="https://cdn.simpleicons.org/gmail/ffffff" height="26"/>
 </a>
+
+<br><br>
+
+<sub>
+Portfolio • LinkedIn • Email
+</sub>
+
+</div>
 
 </div>
 
