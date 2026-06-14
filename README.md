@@ -124,14 +124,6 @@ I focus on building scalable systems, delivering practical solutions, and creati
   </a>
 </p>
 
-<br><br>
-
-<sub>
-Portfolio • LinkedIn • Email
-</sub>
-
-<br><br>
-
 Building Digital Products That Scale
 
 </div>
