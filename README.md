@@ -12,11 +12,25 @@ Building scalable web and mobile products with modern JavaScript technologies.
 
 <br>
 
-<a href="https://yourportfolio.com">Portfolio</a>
-•
-<a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a>
-•
-<a href="mailto:youremail@gmail.com">Email</a>
+<div align="center">
+
+<a href="https://yourportfolio.com">
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/yourlinkedin">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:your@email.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
+</div>
 
 </div>
 
