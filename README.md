@@ -1,54 +1,65 @@
+<div align="center">
+
 # Ken Zamariyan
+**Full-Stack Software Engineer & Product Builder**
 
-**Full-Stack Developer**
+<p align="center">
+  Indonesia • 
+  <a href="mailto:your-email@example.com">Email</a> • 
+  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> • 
+  <a href="https://your-portfolio.com">Portfolio</a>
+</p>
 
-Building production-grade web and mobile applications with a focus on performance, clean architecture, and user-centered design. Experienced across the full product lifecycle — from initial design to deployment.
-
----
-
-## Stack
-
-**Frontend** · React.js · Next.js · TypeScript · JavaScript (ES6+) · Tailwind CSS · HTML5 · CSS3
-
-**Mobile** · React Native · Expo
-
-**Backend & Cloud** · Node.js · REST API · Firebase Authentication · Cloud Firestore · Firebase Storage
-
-**Tools & Platforms** · Git · GitHub · Vercel · Postman · HubSpot CMS
-
-**AI & Productivity** · Prompt Engineering · Google AI
+</div>
 
 ---
 
-## Featured Work
+### Executive Summary
+I build scalable digital products and robust architectures with a focus on exceptional user experience. Specializing in the modern JavaScript/TypeScript ecosystem, I bridge the gap between complex engineering challenges and elegant, business-driven solutions.
 
-### GOTANI POS
-Mobile point-of-sale platform built for vegetable distribution operations — covering inventory management, sales transactions, and real-time operational workflows.
+### Featured Products
 
-> Digitizes end-to-end agricultural distribution, reducing manual overhead and improving transaction accuracy at scale.
+#### ✦ GOTANI POS
+**Mobile Point of Sale & Distribution System**
+Engineered a comprehensive mobile POS solution specifically tailored for agricultural sales and distribution operations. Optimized for performance and offline-first capabilities.
+* **Stack:** React Native, Expo, Firebase
 
-`React Native` `Expo` `Firebase`
+#### ✦ GOTANI Admin
+**Operational & Inventory Dashboard**
+Developed the central administrative command center for the GOTANI ecosystem. Features real-time inventory synchronization, transaction monitoring, and operational analytics.
+* **Stack:** React, Vite, Firebase
 
----
-
-### GOTANI Admin Dashboard
-Centralized web dashboard for inventory tracking, order management, and operational reporting — designed for daily business use by non-technical operators.
-
-> Provides full operational visibility across inventory and transactions, enabling faster decision-making without relying on spreadsheets.
-
-`React` `Vite` `Firebase`
-
----
-
-### Personal Portfolio
-Developer portfolio showcasing projects, technical expertise, and professional experience — built with performance and accessibility in mind.
-
-> Serves as a primary touchpoint for potential clients and employers, representing professional capability through polished execution.
-
-`Next.js` `TypeScript` `Tailwind CSS` · [kenzamariyan.com](https://kenzamariyan.com)
+#### ✦ Personal Portfolio
+**Interactive Digital Identity**
+A high-performance, statically generated web application designed to showcase technical capabilities, professional experience, and architectural methodologies.
+* **Stack:** Next.js, TypeScript, Tailwind CSS
 
 ---
 
-## Contact
+### Core Expertise
 
-[kenzamariyan.com](https://kenzamariyan.com) · [ken.zamariyan@gmail.com](mailto:ken.zamariyan@gmail.com) · [github.com/callmezaa](https://github.com/callmezaa) · [LinkedIn](#)
+**Architecture & Frameworks**
+React • Next.js • React Native • Expo • Node.js
+
+**Infrastructure & Tooling**
+Firebase • Tailwind CSS • REST API Integration • Responsive Web Development
+
+**Applied Methodologies**
+AI-Assisted Development • Prompt Engineering • Agile Mobile App Development
+
+---
+
+> *"Simplicity is a prerequisite for reliability."*
+> <br>— **Engineering Philosophy**
+>
+> I believe that the best code is intuitive, maintainable, and built with the end-user in mind. I prioritize clean architecture, strategic whitespace in UI, and reducing friction in both the codebase and the user journey.
+
+---
+
+<div align="center">
+  <p>
+    <a href="https://your-portfolio.com">View Portfolio</a> ━
+    <a href="https://linkedin.com/in/your-profile">Connect on LinkedIn</a>
+  </p>
+  <p><sup>Delivering premium software solutions • Fluent in Indonesian & Intermediate English</sup></p>
+</div>
