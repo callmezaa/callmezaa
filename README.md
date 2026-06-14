@@ -1,43 +1,54 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Ken%20Zamariyan&fontSize=42&fontAlignY=40" />
-</p>
+# Ken Zamariyan
 
-<h1 align="center">Ken Zamariyan</h1>
+**Full-Stack Developer**
 
-<p align="center">
-  Full-Stack Developer
-</p>
+Building production-grade web and mobile applications with a focus on performance, clean architecture, and user-centered design. Experienced across the full product lifecycle — from initial design to deployment.
 
-<p align="center">
-  React • Next.js • Node.js • React Native
-</p>
+---
 
-<br/>
+## Stack
 
-Building modern web and mobile applications with a focus on performance, scalability, and user experience.
+**Frontend** · React.js · Next.js · TypeScript · JavaScript (ES6+) · Tailwind CSS · HTML5 · CSS3
 
-Currently focused on developing digital products, business systems, and AI-assisted solutions.
+**Mobile** · React Native · Expo
 
-<br/>
+**Backend & Cloud** · Node.js · REST API · Firebase Authentication · Cloud Firestore · Firebase Storage
 
-### Selected Work
+**Tools & Platforms** · Git · GitHub · Vercel · Postman · HubSpot CMS
 
-- **GOTANI POS** — Mobile Point of Sale platform for agricultural distribution.
-- **GOTANI Dashboard** — Operational dashboard for inventory and transaction management.
-- **Portfolio** — Personal website built with Next.js and TypeScript.
+**AI & Productivity** · Prompt Engineering · Google AI
 
-<br/>
+---
 
-### Stack
+## Featured Work
 
-React · Next.js · TypeScript · Node.js · React Native · Expo · Firebase · Tailwind CSS
+### GOTANI POS
+Mobile point-of-sale platform built for vegetable distribution operations — covering inventory management, sales transactions, and real-time operational workflows.
 
-<br/>
+> Digitizes end-to-end agricultural distribution, reducing manual overhead and improving transaction accuracy at scale.
 
-### Connect
+`React Native` `Expo` `Firebase`
 
-Portfolio → kenzamariyan.com
+---
 
-LinkedIn → linkedin.com/in/ken-zamariyan
+### GOTANI Admin Dashboard
+Centralized web dashboard for inventory tracking, order management, and operational reporting — designed for daily business use by non-technical operators.
 
-Email → ken.zamariyan@gmail.com
+> Provides full operational visibility across inventory and transactions, enabling faster decision-making without relying on spreadsheets.
+
+`React` `Vite` `Firebase`
+
+---
+
+### Personal Portfolio
+Developer portfolio showcasing projects, technical expertise, and professional experience — built with performance and accessibility in mind.
+
+> Serves as a primary touchpoint for potential clients and employers, representing professional capability through polished execution.
+
+`Next.js` `TypeScript` `Tailwind CSS` · [kenzamariyan.com](https://kenzamariyan.com)
+
+---
+
+## Contact
+
+[kenzamariyan.com](https://kenzamariyan.com) · [ken.zamariyan@gmail.com](mailto:ken.zamariyan@gmail.com) · [github.com/callmezaa](https://github.com/callmezaa) · [LinkedIn](#)
