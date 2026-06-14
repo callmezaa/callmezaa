@@ -28,25 +28,69 @@ Building scalable web and mobile products with modern JavaScript technologies.
 
 </div>
 
-</div>
-
-</div>
-
 ---
 
 ## About
 
-Full-Stack Developer from Indonesia focused on building modern web and mobile applications.
+I build modern digital products that combine thoughtful user experiences with scalable engineering.
 
-Specialized in React, Next.js, Node.js, React Native, Expo, and Firebase with an emphasis on scalability, maintainability, and user experience.
+From web applications to mobile platforms, I focus on delivering reliable, maintainable, and business-driven solutions using modern JavaScript technologies.
 
 ---
 
-## Tech Stack
+## Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,firebase,tailwind,vite,git,github,vscode" />
+<table>
+<tr>
+
+<td align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite" />
+
+<br>
+
+React • Next.js • TypeScript • Tailwind CSS • Vite
+
+</td>
+
+<td align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+
+<br>
+
+Node.js • Firebase • REST APIs
+
+</td>
+
+<td align="center">
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=react" />
+
+<br>
+
+React Native • Expo
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+
+<br>
+
+Git • GitHub • VS Code • Postman • NPM
 
 </div>
 
@@ -56,43 +100,69 @@ Specialized in React, Next.js, Node.js, React Native, Expo, and Firebase with an
 
 ### GOTANI POS
 
-Mobile Point of Sale platform for vegetable sales and distribution operations.
+Mobile Point of Sale platform designed for vegetable sales and distribution operations.
 
-**Stack**  
+**Stack**
 React Native • Expo • Firebase
 
 <br>
 
 ### GOTANI Admin Dashboard
 
-Administrative dashboard for inventory management, transactions, and operational monitoring.
+Administrative dashboard for inventory management, transaction oversight, and operational monitoring.
 
-**Stack**  
+**Stack**
 React • Vite • Firebase
 
 <br>
 
 ### Portfolio Website
 
-Professional portfolio showcasing projects, skills, certifications, and experience.
+Professional portfolio showcasing projects, technical expertise, certifications, and professional experience.
 
-**Stack**  
+**Stack**
 Next.js • TypeScript • Tailwind CSS
 
 ---
 
 ## Philosophy
 
-> Great software is built for people first, technology second.
+> Great software is not defined by complexity. It is defined by clarity, reliability, maintainability, and the value it creates for users.
 
-I focus on creating scalable, maintainable, and business-driven digital products.
+I focus on building scalable systems, delivering practical solutions, and creating products that provide long-term business value.
 
 ---
 
-## Connect
+<div align="center">
 
-Portfolio → https://yourportfolio.com
+### Connect
 
-LinkedIn → https://linkedin.com/in/yourlinkedin
+<br>
 
-Email → youremail@gmail.com
+<a href="https://yourportfolio.com">
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" />
+</a>
+
+   
+
+<a href="https://linkedin.com/in/yourlinkedin">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+</a>
+
+   
+
+<a href="mailto:your@email.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+</a>
+
+<br><br>
+
+<sub>
+Portfolio • LinkedIn • Email
+</sub>
+
+<br><br>
+
+Building Digital Products That Scale
+
+</div>
