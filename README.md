@@ -96,35 +96,6 @@ Git • GitHub • VS Code • Postman • NPM
 
 ---
 
-## Featured Projects
-
-### GOTANI POS
-
-Mobile Point of Sale platform designed for vegetable sales and distribution operations.
-
-**Stack**
-React Native • Expo • Firebase
-
-<br>
-
-### GOTANI Admin Dashboard
-
-Administrative dashboard for inventory management, transaction oversight, and operational monitoring.
-
-**Stack**
-React • Vite • Firebase
-
-<br>
-
-### Portfolio Website
-
-Professional portfolio showcasing projects, technical expertise, certifications, and professional experience.
-
-**Stack**
-Next.js • TypeScript • Tailwind CSS
-
----
-
 ## Philosophy
 
 > Great software is not defined by complexity. It is defined by clarity, reliability, maintainability, and the value it creates for users.
@@ -139,21 +110,19 @@ I focus on building scalable systems, delivering practical solutions, and creati
 
 <br>
 
-<a href="https://yourportfolio.com">
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" />
-</a>
-
-   
-
-<a href="https://linkedin.com/in/yourlinkedin">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
-</a>
-
-   
-
-<a href="mailto:your@email.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="30" />
-</a>
+<p align="center">
+  <a href="https://yourportfolio.com">
+    <img src="https://skillicons.dev/icons?i=vercel" height="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:your@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" />
+  </a>
+</p>
 
 <br><br>
 
